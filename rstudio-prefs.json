@@ -1,0 +1,43 @@
+{
+    "initial_working_directory": "~",
+    "insert_native_pipe_operator": true,
+    "scroll_past_end_of_document": true,
+    "highlight_r_function_calls": true,
+    "editor_theme": "Material",
+    "posix_terminal_shell": "bash",
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet2",
+            "TabSet1",
+            "Console"
+        ],
+        "tabSet1": [
+            "Environment",
+            "Plots",
+            "Connections",
+            "Help",
+            "Build",
+            "VCS",
+            "Viewer",
+            "Presentations",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "History",
+            "Files",
+            "Packages"
+        ],
+        "hiddenTabSet": [
+            "Tutorial"
+        ],
+        "console_left_on_top": false,
+        "console_right_on_top": false,
+        "additional_source_columns": 0
+    },
+    "default_project_location": "~",
+    "data_viewer_max_columns": 1000,
+    "jobs_tab_visibility": "shown",
+    "new_proj_git_init": true,
+    "show_hidden_files": true
+}
